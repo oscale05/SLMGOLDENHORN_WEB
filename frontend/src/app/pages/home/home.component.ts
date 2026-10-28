@@ -23,6 +23,10 @@ import { Component } from '@angular/core';
         <ul><li>Integración nativa con Meta</li><li>NLP</li><li>Alta disponibilidad</li><li>Privacidad de datos</li></ul>
       </article>
     </section>
+    <section class="agrotech">
+      <h2>Triskal AgroTech</h2>
+      <p>Gestión de datos de telemetría y plataformas digitales para el sector agroindustrial.</p>
+    </section>
   `,
   styles: [`
     .hero { min-height: 70vh; display:flex; align-items:center; justify-content:center; background: linear-gradient(135deg,#0f172a,#1e3a8a); color:#fff; text-align:center; padding:4rem 1rem; }
