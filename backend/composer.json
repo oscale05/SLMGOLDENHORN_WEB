@@ -1,0 +1,17 @@
+{
+  "name": "slm/golden-horn-backend",
+  "description": "SLM Golden Horn backend API",
+  "type": "project",
+  "license": "proprietary",
+  "require": {
+    "php": ">=8.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "SLM\\": "src/"
+    }
+  },
+  "config": {
+    "optimize-autoloader": true
+  }
+}
